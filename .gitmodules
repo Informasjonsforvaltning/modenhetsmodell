@@ -1,6 +1,3 @@
-[submodule "docs/asciidoc-shared"]
-	path = docs/asciidoc-shared
-	url = https://github.com/Informasjonsforvaltning/asciidoc-shared.git
 [submodule "docs/shared"]
 	path = docs/shared
 	url = https://github.com/Informasjonsforvaltning/asciidoc-shared.git
