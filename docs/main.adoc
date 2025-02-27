@@ -1,5 +1,5 @@
 include::locale/attributes-nb.adoc[]
-= Modenhetsmodell for orden i eget hus 
+= Modenhetsmodell for orden i eget hus - Oversikt over og beskrivelse av egne datasett
 Digitaliseringsdirektoratet (Digdir) / The Norwegian Digitalisation Agency
 :doctype: book
 :icons: font
@@ -21,11 +21,12 @@ Dersom du finner feil eller mangler i dokumentet, ber vi om at dette meldes inn 
 
 *Lisens*: https://creativecommons.org/licenses/by/4.0/[CC BY 4.0 &#x29C9;, window="_blank", role="ext-link"] +
 *Status*: Gjeldende +
-*Versjon*: 1.0.1 (se <<endringslogg, Endringslogg>>) +
+*Versjon*: 1.1 (se <<endringslogg, Endringslogg>>) +
 *Publisert*: 2016-06-01 (v.1.0.0) +
-*Oppdatert*: 2025-02-27 (v.1.0.x) +
+*Oppdatert*: 2025-03-03 (v.1.1.x) +
 *Gjeldende versjon*: https://data.norge.no/guide/modenhetsmodell/ +
-*Redaktørens utkast*: https://informasjonsforvaltning.github.io/modenhetsmodell/ 
+*Redaktørens utkast*: https://informasjonsforvaltning.github.io/modenhetsmodell/ + 
+*Forrige versjon*: link:files/modenhetsmodell_-_oversikt_og_beskrivelse_av_egne_datasett_v1.0.pdf[Modenhetsmodell v.1.0] (i PDF)
 
 // For PDF, TOC kommer her:
 toc::[]

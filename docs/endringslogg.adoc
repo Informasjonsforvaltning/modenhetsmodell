@@ -1,8 +1,13 @@
 == Endringslogg [[endringslogg]]
 
-=== Fra v.1.0 til v.1.0.1
+=== Fra v.1.0 til v.1.1.0
 
-Kun redaksjonelle justeringer:
+Redaksjonelle justeringer:
 
 * En del lenkefeil i versjon 1.0 ble rettet opp.
 * Innholdet løftet ut fra PDF og publisert i HTML.
+
+Innholdsmessige justeringer: 
+
+* Tatt bort noen sitater/referanser som ikke lenger er aktuelle, uten at det har blitt foretatt en systematisk gjennomgang av hele dokumentet.
+* Oppdatert noen tekster slik at de bedre gjenspeiler dagens praksis, uten at det har blitt foretatt en systematisk gjennomgang av hele dokumentet. 
