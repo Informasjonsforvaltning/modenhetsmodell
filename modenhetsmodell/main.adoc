@@ -56,4 +56,4 @@ include::bruksanvisning.adoc[]
 include::endringslogg.adoc[]
 
 // Analytics
-include::asciidoc-shared/analytics.adoc[]
+include::shared/analytics.adoc[]
