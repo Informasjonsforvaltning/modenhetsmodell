@@ -1,6 +1,6 @@
 :appendix-caption: Vedlegg
 // :caution-caption:
-:chapter-label:
+:chapter-label: 
 :example-caption: Eksempel
 :figure-caption: Figur
 :important-caption: Viktig
@@ -10,8 +10,9 @@
 // :note-caption:
 // :preface-title:
 :table-caption: Tabell
-:tip-caption: Tips
+:tip-caption: Tips 
 :toc-title: Innhold
 // :untitled-label:
 :version-label: Versjon
 :warning-caption: Advarsel
+:!chapter-signifier:
