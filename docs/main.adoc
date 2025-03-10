@@ -1,5 +1,5 @@
 include::locale/attributes-nb.adoc[]
-= Modenhetsmodell for orden i eget hus - Oversikt over og beskrivelse av egne datasett
+= Modenhetsmodell for orden i eget hus: - Oversikt over og beskrivelse av egne datasett
 Digitaliseringsdirektoratet (Digdir) / The Norwegian Digitalisation Agency
 :doctype: book
 :icons: font
