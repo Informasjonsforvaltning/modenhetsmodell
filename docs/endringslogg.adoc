@@ -9,5 +9,5 @@ Redaksjonelle justeringer:
 
 Innholdsmessige justeringer: 
 
-* Tatt bort noen sitater/referanser som ikke lenger er aktuelle, uten at det har blitt foretatt en systematisk gjennomgang av hele dokumentet.
-* Oppdatert noen tekster slik at de bedre gjenspeiler dagens praksis, uten at det har blitt foretatt en systematisk gjennomgang av hele dokumentet. 
+* Tatt bort noen sitater/referanser som ikke lenger er aktuelle.
+* Oppdatert noen tekster slik at de bedre gjenspeiler dagens praksis. 
