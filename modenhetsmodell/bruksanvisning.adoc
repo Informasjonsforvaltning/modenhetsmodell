@@ -23,7 +23,7 @@ informasjonssikkerhetsarbeid.
 
 *	[[strukturert-form]]**Strukturert form**: Oversikten/beskrivelsen er utformet i henhold til en definert struktur.  
 
-**	https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO  &#x29C9;, window="_blank", role="ext-link"] er p.t. en anbefalt forvaltningsstandard  for for beskrivelse av datasett, datatjenester og datakataloger.   
+**	https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO  &#x29C9;, window="_blank", role="ext-link"] er p.t. en anbefalt forvaltningsstandard  for beskrivelse av datasett, datatjenester og datakataloger.   
 
 ** https://data.norge.no/specification/skos-ap-no-begrep[Forvaltningsstandard for begrepsbeskrivelser (SKOS-AP-NO-Begrep) &#x29C9;, window="_blank", role="ext-link"] er p.t. en anbefalt forvaltningsstandard for å dokumentere definisjon av begreper i en strukturert form. 
 

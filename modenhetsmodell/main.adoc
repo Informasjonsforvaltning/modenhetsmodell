@@ -23,7 +23,7 @@ Dersom du finner feil eller mangler i dokumentet, ber vi om at dette meldes inn 
 *Status*: Gjeldende +
 *Versjon*: 1.1 (se <<endringslogg, Endringslogg>>) +
 *Publisert*: 2016-06-01 (v.1.0.0) +
-*Oppdatert*: 2025-03-03 (v.1.1.x) +
+*Oppdatert*: 2025-03-10 (v.1.1.x) +
 *Gjeldende versjon*: https://data.norge.no/guide/modenhetsmodell/ +
 *Redaktørens utkast*: https://informasjonsforvaltning.github.io/modenhetsmodell/ + 
 *Forrige versjon*: link:files/modenhetsmodell_-_oversikt_og_beskrivelse_av_egne_datasett_v1.0.pdf[Modenhetsmodell v.1.0] (i PDF)
