@@ -1,4 +1,4 @@
-# modenhetsmodell (_maturity model_)
+# modenhetsmodell 
 
 Dette repoet brukes til å vedlikeholde "Modenhetsmodell for orden i eget hus"
 
@@ -7,6 +7,8 @@ Redaktørens utkast er publisert til: informasjonsforvaltning.github.io/modenhet
 Gjeldende versjon er publisert til: data.norge.no/guide/modenhetsmodell
 
 ---
+
+# _maturity model_
 
 _This repo is used for the maintenance of "Maturity model for order in-house" (in Norwegian only)_ 
 
