@@ -1,4 +1,4 @@
-# maturity-model
+# modenhetsmodell (_maturity model_)
 
 Dette repoet brukes til å vedlikeholde "Modenhetsmodell for orden i eget hus"
 
