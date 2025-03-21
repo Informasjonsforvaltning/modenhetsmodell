@@ -3,6 +3,6 @@ ifeval::["{backend}" == "html5"]
 [TIP]
 .Nedlasting 
 Dette dokumentet kan også link:files/modenhetsmodell.pdf[lastes ned som PDF]. +
-Selve modenhetsmodellen kan også https://github.com/Informasjonsforvaltning/modenhetsmodell/raw/refs/heads/develop/docs/files/modenhetsmodell-v1.xlsx[lastes ned som Excel-fil]. 
+Selve modenhetsmodellen kan også https://raw.githubusercontent.com/Informasjonsforvaltning/modenhetsmodell/refs/heads/v1/docs/files/modenhetsmodell-v1.xlsx[lastes ned som Excel-fil]. 
 
 endif::[]
