@@ -50,5 +50,6 @@ jobs:
           files: |
             docs/index.html text/html nb
             docs/files/modenhetsmodell.pdf application/pdf nb files/modenhetsmodell.pdf
+            docs/files/modenhetsmodell-v1.xlsx application/vnd.openxmlformats-officedocument.spreadsheetml.sheet nb files/modenhetsmodell-v1.xlsx
             docs/images/Digdir.png image/png nb images/Digdir.png
             docs/images/illustrasjon-av-modenhetsmodellen.png image/png nb images/illustrasjon-av-modenhetsmodellen.png
